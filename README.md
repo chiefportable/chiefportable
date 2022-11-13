@@ -6,8 +6,9 @@
 
 About Me
 
-My name Ato Kwamena web developer located in Ghana. I comfortably enjoy writing javascript code and loves to reading non-fiction books during my leisure time.
-📧 kwamea236@protonmail.com
+My name Ato Kwamena web developer located in Ghana.
+
+I comfortably enjoy writing javascript code and loves to reading non-fiction books during my leisure time.
 
 ***
 
