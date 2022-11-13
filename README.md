@@ -6,8 +6,8 @@
 
 About Me
 
-My name Ato Kwame, a web developer who enjoys writing Javascript codes.
-I am currently learning the rust language.
+My name Ato Kwamena web developer located in Ghana. I comfortably enjoy writing javascript code and loves to reading non-fiction books during my leisure time.
+📧 kwamea236@protonmail.com
 
 ***
 
