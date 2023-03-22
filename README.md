@@ -26,7 +26,9 @@ java php
 [Svelte](https://svelte.dev/docs)
 
 [springboot](https://spring.io/projects/spring-boot)
+
 [Nextjs](https://nextjs.org/)
+
 [Symphony](https://symfony.com/doc/current/index.html)
 
 ### Databases
