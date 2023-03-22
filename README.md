@@ -12,4 +12,20 @@ I comfortably enjoy writing javascript code and loves to reading non-fiction boo
 
 ***
 
-Tech Stack
+## Tech Stack
+### Languages
+c/c++ python
+javascript
+java php
+
+### Framework
+Laravel Nodejs
+Svelte Nextjs
+springboot
+Symphony
+
+### Databases
+Oracle
+Mysql
+Postgresql
+Prisma
