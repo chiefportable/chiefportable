@@ -35,7 +35,6 @@ I am a problem solver not just a programmer
 ![](https://img.shields.io/badge/Symfony-blue?style=for-the-badge&logo=Symfony)
 
 ### Databases
-Oracle
-Mysql
-Postgresql
-Prisma
+![](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=PostgreSQL)
+![](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=MySQL)
+![](https://img.shields.io/badge/SQLite-green?style=for-the-badge&logo=SQLite)
