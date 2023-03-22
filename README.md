@@ -23,20 +23,16 @@ I am a problem solver not just a programmer
 ![](https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
 ![](https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
-![]()
+![](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=PHP)
 
 ### Framework
-[Laravel](https://laravel.com/)
+![](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=Laravel)
+![](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js)
+![](https://img.shields.io/badge/Svelte-blue?style=for-the-badge&logo=Svelte)
 
-[Nodejs](https://nodejs.org/en)
-
-[Svelte](https://svelte.dev/docs)
-
-[springboot](https://spring.io/projects/spring-boot)
-
-[Nextjs](https://nextjs.org/)
-
-[Symphony](https://symfony.com/doc/current/index.html)
+![](https://img.shields.io/badge/Spring-Boot-green?style=for-the-badge&logo=Spring-Boot)
+![](https://img.shields.io/badge/Next.js-orange?style=for-the-badge&logo=Next.js)
+![](https://img.shields.io/badge/Symfony-blue?style=for-the-badge&logo=Symfony)
 
 ### Databases
 Oracle
