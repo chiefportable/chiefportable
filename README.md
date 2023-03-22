@@ -19,8 +19,8 @@ javascript
 java php
 
 ### Framework
-[Laravel][https://laravel.com/] 
-[Nodejs][https://nodejs.org/en]
+[Laravel](https://laravel.com/)
+[Nodejs](https://nodejs.org/en)
 [Svelte][https://svelte.dev/docs]
 [springboot][https://spring.io/projects/spring-boot]
 [Nextjs][https://nextjs.org/]
