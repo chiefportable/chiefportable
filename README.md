@@ -6,9 +6,9 @@
 
 ## About Me
 
-My name Ato Kwamena a web developer located in Ghana.
+My name Raymond Ato Ghanney a web developer from Ghana.
 
-I comfortably enjoy writing javascript code and loves to reading non-fiction books during my leisure time.
+I always like to say, I am a problem solver not just a programmer
 
 # 🚀
 
