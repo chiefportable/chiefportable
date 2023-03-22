@@ -21,7 +21,7 @@ javascript
 java php
 
 ### Framework
-[Laravel](https://laravel.com/) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png =100x20)
+[Laravel](https://laravel.com/) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png){width=250px}
 
 [Nodejs](https://nodejs.org/en)
 
