@@ -20,11 +20,14 @@ java php
 
 ### Framework
 [Laravel](https://laravel.com/)
+
 [Nodejs](https://nodejs.org/en)
-[Svelte][https://svelte.dev/docs]
-[springboot][https://spring.io/projects/spring-boot]
-[Nextjs][https://nextjs.org/]
-[Symphony][https://symfony.com/doc/current/index.html]
+
+[Svelte](https://svelte.dev/docs)
+
+[springboot](https://spring.io/projects/spring-boot)
+[Nextjs](https://nextjs.org/)
+[Symphony](https://symfony.com/doc/current/index.html)
 
 ### Databases
 Oracle
