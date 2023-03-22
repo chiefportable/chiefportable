@@ -8,7 +8,7 @@
 
 My name Raymond Ato Ghanney a web developer from Ghana.
 
-I always like to say, I am a problem solver not just a programmer
+I am a problem solver not just a programmer
 
 # 🚀
 
