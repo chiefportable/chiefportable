@@ -45,4 +45,5 @@ I am a problem solver not just a programmer
 ***
 
 ## Connect with me 📫
-[<img src="https://github.com/kwamea236/kwamea236/blob/main/protonmail.svg" color="red" height="38" width="38">](mailto:kwamea236@protonmail.com)
+[<img src="https://www.svgrepo.com/show/331550/protonmail.svg" color="red" height="38" width="38">](mailto:kwamea236@protonmail.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" color="red" height="38" width="38">](https://twitter.com/kwamea236)
