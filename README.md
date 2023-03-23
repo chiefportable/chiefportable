@@ -39,3 +39,8 @@ I am a problem solver not just a programmer
 ![](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=PostgreSQL)
 ![](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=MySQL)
 ![](https://img.shields.io/badge/SQLite-green?style=for-the-badge&logo=SQLite)
+
+***
+
+## Connect with me 📫
+[<img src="https://github.com/kwamea236/kwamea236/blob/main/protonmail.svg" color="blue" height="38" width="38">](mailto:kwamea236@protonmail.com)
