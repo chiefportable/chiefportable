@@ -35,6 +35,8 @@ I am a problem solver not just a programmer
 ![](https://img.shields.io/badge/Next.js-orange?style=for-the-badge&logo=Next.js)
 ![](https://img.shields.io/badge/Symfony-blue?style=for-the-badge&logo=Symfony)
 
+![](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS)
+
 ### Databases
 ![](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=PostgreSQL)
 ![](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=MySQL)
@@ -43,4 +45,4 @@ I am a problem solver not just a programmer
 ***
 
 ## Connect with me 📫
-[<img src="https://github.com/kwamea236/kwamea236/blob/main/protonmail.svg" color="blue" height="38" width="38">](mailto:kwamea236@protonmail.com)
+[<img src="https://github.com/kwamea236/kwamea236/blob/main/protonmail.svg" color="red" height="38" width="38">](mailto:kwamea236@protonmail.com)
