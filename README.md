@@ -18,6 +18,15 @@ I am a problem solver not just a programmer
 ***
 
 ## 🛠️Tech Stack
+
+### Primary Stack
+
+![](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=Laravel)
+![](https://img.shields.io/badge/Svelte-blue?style=for-the-badge&logo=Svelte)
+![](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS)
+![](https://img.shields.io/badge/MySQL-222831?style=for-the-badge&logo=MySQL)
+
+
 <h3>Languages</h3>
 
 ![](https://camo.githubusercontent.com/891c1fd9d2ab2adf1053e8514f469b94049769ccd9d2765c8e06e9c1b6da1b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
