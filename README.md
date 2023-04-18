@@ -9,7 +9,7 @@
 
 ## About Me
 
-My name Raymond Ato Ghanney a web developer from Ghana.
+My name Raymond Ato Ghanney a self taught system engineer from Ghana.
 
 I am a problem solver not just a programmer
 
