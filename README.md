@@ -9,8 +9,6 @@
 
 #### Bio
 
-My name Raymond Ato Ghanney a self taught software engineer from Ghana.
-
-I love to solve problems with programming and likes to mmm :thinking:
+:thinking:
 
 # 🚀
