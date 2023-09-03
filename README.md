@@ -1,6 +1,6 @@
 #### Hi There 👋
 
-My name is Kwame Ato a developer based in Ghana.
+My name is Kwame Ato a software developer based in Ghana.
 
 I like making stuff
 
