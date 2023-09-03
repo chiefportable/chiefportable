@@ -1,8 +1,8 @@
 #### Hi There 👋
 
-My name is Kwame Ato a web developer based in Ghana.
+My name is Kwame Ato a developer based in Ghana.
 
-I am currently learning symfony the php web framework
+I like making stuff
 
 📫 how to reach me
 
