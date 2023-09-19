@@ -1,8 +1,8 @@
 #### Hi There 👋
 
-My name is Kwame Ato a software engineer based in Ghana.
+My name is Kwame Ato a computer engineer🥸 from Ghana.
 
-I like making stuff
+I like building stuff
 
 Quote: Look wider and think further ahead
 
