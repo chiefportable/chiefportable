@@ -10,4 +10,3 @@ Quote: Look wider and think further ahead
 
 https://twitter.com/kwamea236
 
-kwamea236@protonmail.com
