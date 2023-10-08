@@ -1,6 +1,6 @@
 #### Hi There 👋
 
-My name is Kwame Ato a computer engineer🥸 from Ghana.
+I am a computer engineer🥸 from Ghana.
 
 I like building stuff
 
