@@ -1,12 +1,16 @@
 #### Hi There 👋
 
-I am a software engineer🥸 from Ghana.
+- I am a software engineer🥸 from Ghana.
 
-I like building stuff
+- I like building stuff
 
-Quote: Look wider and think further ahead
+- I looking forward to contributing to opensource web application and tools
 
-📫 how to reach me
+- Quote: Look wider and think further ahead
 
-https://twitter.com/kwamea236
+- 📫 how to reach me
+
+<a href="https://twitter.com/kwamea236" target="_blank"> twitter </a>
+
+<a href="https://kwamea236.github.io" target="_blank"> github pages site </a>
 
