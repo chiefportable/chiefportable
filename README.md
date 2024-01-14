@@ -4,6 +4,8 @@
 
 - I like building stuff
 
+- Learning rust
+
 - I looking forward to contributing to opensource web application and tools
 
 - Quote: Look wider and think further ahead
