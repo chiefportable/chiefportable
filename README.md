@@ -6,7 +6,7 @@
 
 - Learning rust
 
-- I looking forward to contributing to opensource in Javascript/Express/Node
+- I looking forward to contributing to opensource in Javascript/Express/Node/Bun
 
 - Quote: Look wider and think further ahead
 
