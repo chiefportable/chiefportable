@@ -8,7 +8,7 @@
 
 - I looking forward to contributing to opensource in Javascript/Express/Node/Bun
 
-- Quote: Look wider and think further ahead
+- Quote: Ma nodzi bokoboko (keeping on keeping on slowly)
 
 
 <img src="header_.png" />
